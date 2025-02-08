@@ -3,4 +3,6 @@ https://argo-cd.readthedocs.io/en/stable/getting_started/
 
 necessario instalar o metallb para pegar um ip "externo"
 https://metallb.io/installation/
+https://iamunnip.medium.com/kind-local-kubernetes-cluster-part-6-775397fa060d
+https://metallb.universe.tf/troubleshooting/
 
