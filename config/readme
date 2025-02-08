@@ -1,0 +1,6 @@
+instalar o argocd no cluster
+https://argo-cd.readthedocs.io/en/stable/getting_started/
+
+necessario instalar o metallb para pegar um ip "externo"
+https://metallb.io/installation/
+
